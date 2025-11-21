@@ -26,22 +26,22 @@
 `TCP/IP` • `ARP` • `ICMP` • `DNS` • `DHCP` • `Syslog` • `SNMP` •  `FTP/TFTP` • `SSH` • `MPLS` • `QoS` •  `NAT` 
 
 ### 🛡️ Network Security
-`VPN` • `ACLs` • `Firewalls(basic)`
+`VPN` • `ACLs` • `Firewalls
 
 ### 🚦 Routing Protocols
-`RIP` • `OSPF` • `EIGRP` • `BGP(basic)`
+`RIP` • `OSPF` • `EIGRP` • `BGP
 
 ### 🔁 Switching & VLANs
 `VLAN` • `VTP` • `DTP` • `STP`
 
 ### 🔧 Hardware
-`Hands-on experience with Cisco 2811 Routers, Cisco Catalyst 3550 Switches (L3 Switch)`
+`Hands-on experience with Cisco Routers, Cisco Catalyst Switches`
 
 ### 🛠️ Tools
 `PuTTY` • `Cisco Packet Tracer` • `EVE-NG` • `Wireshark` • `VMware, VirtualBox` • `Metasploit`
 
 ### 💻 Automation and Programming
-`Python(Network Automation)` • `Ansible(basic)` • `Bash scripting(basic), Flask` • `MySQL`
+`Python(Network Automation)` • `Ansible` • `Bash scripting`
 
 ### ⚙️ Operating Systems
 `Linux` • `Windows Server` • `Cisco IOS`
@@ -57,10 +57,10 @@ KIT’s College of Engineering (Autonomous), Kolhapur (CGPA: 7.7)
 
 ## 📜 CERTIFICATIONS & COURSES
 
-- CCNA, CCNP Training at Networkers Home
+- CCNA & CCNP Training Certification
 - Completed Practical Ethical Hacking Course by TCM Security (link)
 - Completed Practical Help Desk Course by TCM Security (link)
-- Google Cloud Arcade (using APIs, BigQuery, Docker) (link)
+- Google Cloud Arcade (link)
 
 ---
 
