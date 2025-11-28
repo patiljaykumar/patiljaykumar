@@ -15,7 +15,7 @@
 
 ---
 
-**Aspiring Network Security Engineer with a passion for securing networks and ensuring the protection of sensitive data. With CCNA and CCNP training, I am dedicated to mastering the latest security protocols and technologies. I thrive on solving complex security challenges and am constantly exploring ways to enhance network infrastructure through advanced security measures and automation.
+**Aspiring Network Security Engineer with a passion for securing networks and ensuring the protection of sensitive data. With CCNA and CCNP training, I am dedicated to mastering the latest security protocols and technologies. I thrive on solving complex security challenges and am constantly exploring ways to enhance network infrastructure through advanced security measures and automation**
 
 ---
 
@@ -37,7 +37,7 @@
 `Hands-on experience with Cisco Routers, Cisco Catalyst Switches`
 
 ### 🛠️ Tools
-`PuTTY` • `Cisco Packet Tracer` • `EVE-NG` • `Wireshark` • `VMware, VirtualBox` • `Metasploit`
+`PuTTY` • `Cisco Packet Tracer` • `EVE-NG` • `Wireshark` • `VMware` • `VirtualBox` 
 
 ### 💻 Automation and Programming
 `Python(Network Automation)` • `Ansible` • `Bash scripting`
