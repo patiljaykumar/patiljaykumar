@@ -1,5 +1,4 @@
 <h1 align="center">JAYKUMAR PATIL</h1>
-<h3 align="center">Aspiring Network Security Engineer</h3>
 
 ---
 
@@ -16,7 +15,7 @@
 
 ---
 
-**Aspiring Network Security Engineer** with a passion for securing networks and ensuring the protection of sensitive data. With a **CCNA** and **CCNP** training, I am dedicated to mastering the latest security protocols and technologies. I thrive on solving complex security challenges and am constantly exploring ways to enhance network infrastructure through advanced security measures and automation.
+**Aspiring Network Security Engineer with a passion for securing networks and ensuring the protection of sensitive data. With CCNA and CCNP training, I am dedicated to mastering the latest security protocols and technologies. I thrive on solving complex security challenges and am constantly exploring ways to enhance network infrastructure through advanced security measures and automation.
 
 ---
 
@@ -26,10 +25,10 @@
 `TCP/IP` • `ARP` • `ICMP` • `DNS` • `DHCP` • `Syslog` • `SNMP` •  `FTP/TFTP` • `SSH` • `MPLS` • `QoS` •  `NAT` 
 
 ### 🛡️ Network Security
-`VPN` • `ACLs` • `Firewalls
+`VPN` • `ACLs` 
 
 ### 🚦 Routing Protocols
-`RIP` • `OSPF` • `EIGRP` • `BGP
+`RIP` • `OSPF` • `EIGRP` • `BGP`
 
 ### 🔁 Switching & VLANs
 `VLAN` • `VTP` • `DTP` • `STP`
@@ -48,19 +47,12 @@
 
 ---
 
-## 🎓 EDUCATION
-
-**🎓 Bachelor of Technology in Computer Science and Engineering (AIML)** (**May 2025**)   
-KIT’s College of Engineering (Autonomous), Kolhapur (CGPA: 7.7)
-
----
-
 ## 📜 CERTIFICATIONS & COURSES
 
 - CCNA & CCNP Training Certification
-- Completed Practical Ethical Hacking Course by TCM Security (link)
-- Completed Practical Help Desk Course by TCM Security (link)
-- Google Cloud Arcade (link)
+- [Completed Practical Ethical Hacking Course by TCM Security](https://drive.google.com/file/d/1_YVc2PwPjlLu94SICpWINCrX5atK1bqL/view?usp=sharing)
+- [Completed Practical Help Desk Course by TCM Security](https://drive.google.com/file/d/1ghuoswT3isnrRRMWtFroVO0CTlfUDZ5D/view?usp=sharing)
+- [Google Cloud Arcade](https://www.credly.com/users/jaykumar-patil.4203a1d4)
 
 ---
 
@@ -77,11 +69,18 @@ KIT’s College of Engineering (Autonomous), Kolhapur (CGPA: 7.7)
   - Utilized **Decision Tree Algorithm** to provide accurate college predictions based on input data.
   - **Technologies**: *Python, Django, JavaScript, Decision Tree Algorithm*
 
-- **[Student Grievance Support System](Link)** (March 2024)
+- **[Student Grievance Support System](link)** (March 2024)
   - Developed a **web-based Student Grievance System** to streamline the reporting and resolution of student issues, designed and implemented during a 24-hour hackathon.
   - Implemented a multi-tier grievance reporting system, enabling students to submit grievances and escalate them to different levels, including **HOD (Head of Department)**, **College Dean**, and **University Head**.
   - Enhanced transparency and accountability by allowing students to track the status of their complaints in real-time and receive updates at each escalation level.
   - **Technologies**: *HTML, CSS, JavaScript, Python, Flask, SQLite*
+ 
+---
+
+## 🎓 EDUCATION
+
+**🎓 Bachelor of Technology in Computer Science and Engineering (AIML)** (**May 2025**)   
+KIT’s College of Engineering (Autonomous), Kolhapur (CGPA: 7.7)
 
 ---
 
