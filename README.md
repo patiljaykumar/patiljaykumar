@@ -1,7 +1,5 @@
 <h1 align="center">JAYKUMAR PATIL</h1>
 
----
-
 <div align="center">
   <img src="https://img.shields.io/badge/CCNA-0066CC?style=flat-square&logo=cisco" alt="CCNA Badge"/>
   <img src="https://img.shields.io/badge/CCNP-00B140?style=flat-square&logo=cisco" alt="CCNP Badge"/>
