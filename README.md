@@ -1,51 +1,65 @@
 <h1 align="center">JAYKUMAR PATIL</h1>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/CCNA-0066CC?style=flat-square&logo=cisco" alt="CCNA Badge"/>
-  <img src="https://img.shields.io/badge/CCNP-00B140?style=flat-square&logo=cisco" alt="CCNP Badge"/>
-  <img src="https://img.shields.io/badge/Linux-FF5C5C?style=flat-square&logo=linux" alt="Linux Badge"/>
-  <img src="https://img.shields.io/badge/VPN-4CAF50?style=flat-square&logo=vpn" alt="VPN Badge"/>
-  <img src="https://img.shields.io/badge/Wireshark-9E4E8C?style=flat-square&logo=wireshark" alt="Wireshark Badge"/>
-  <img src="https://img.shields.io/badge/PenTesting-FF4500?style=flat-square&logo=security" alt="PenTesting Badge"/>
-  <img src="https://img.shields.io/badge/Nessus-8B0000?style=flat-square&logo=nessus" alt="Nessus Badge"/>
-  <img src="https://img.shields.io/badge/GCP-34A853?style=flat-square&logo=google-cloud" alt="GCP Badge"/>
-</div>
-
----
-
 **Aspiring Network Security Engineer with a passion for securing networks and ensuring the protection of sensitive data. With CCNA and CCNP training, I am dedicated to mastering the latest security protocols and technologies. I thrive on solving complex security challenges and am constantly exploring ways to enhance network infrastructure through advanced security measures and automation**
 
 ---
 
-## 🧠 TECHNICAL SKILLS
+### 🧠 TECHNICAL SKILLS
 
-### 🖧 Networking
-`TCP/IP` • `ARP` • `ICMP` • `DNS` • `DHCP` • `Syslog` • `SNMP` •  `FTP/TFTP` • `SSH` • `MPLS` • `QoS` •  `NAT` 
+#### 🖧 Networking
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-%23007ACC.svg?style=for-the-badge&logo=network&logoColor=white)
+![ARP](https://img.shields.io/badge/ARP-%23C71585.svg?style=for-the-badge&logo=network&logoColor=white)
+![ICMP](https://img.shields.io/badge/ICMP-%2300A36C.svg?style=for-the-badge&logo=network&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-%23FF8C00.svg?style=for-the-badge&logo=network&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-%231E90FF.svg?style=for-the-badge&logo=network&logoColor=white)
+![Syslog](https://img.shields.io/badge/Syslog-%236A5ACD.svg?style=for-the-badge&logo=network&logoColor=white)
+![SNMP](https://img.shields.io/badge/SNMP-%2332CD32.svg?style=for-the-badge&logo=network&logoColor=white)
+![FTP/TFTP](https://img.shields.io/badge/FTP%2FTFTP-%238B0000.svg?style=for-the-badge&logo=network&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-%2300008B.svg?style=for-the-badge&logo=network&logoColor=white)
+![MPLS](https://img.shields.io/badge/MPLS-%237C3AED.svg?style=for-the-badge&logo=network&logoColor=white)
+![QoS](https://img.shields.io/badge/QoS-%23B8860B.svg?style=for-the-badge&logo=network&logoColor=white)
+![NAT](https://img.shields.io/badge/NAT-%234B0082.svg?style=for-the-badge&logo=network&logoColor=white)
 
-### 🛡️ Network Security
-`VPN` • `ACLs` 
+#### 🛡️ Network Security
+![VPN](https://img.shields.io/badge/VPN-%230A66C2.svg?style=for-the-badge&logo=protonvpn&logoColor=white)
+![ACL](https://img.shields.io/badge/ACL-%23FF0000.svg?style=for-the-badge&logo=security&logoColor=white)
 
-### 🚦 Routing Protocols
-`RIP` • `OSPF` • `EIGRP` • `BGP`
+#### 🚦 Routing Protocols
+![RIP](https://img.shields.io/badge/RIP-%23007ACC.svg?style=for-the-badge&logo=protocol&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-%23008B8B.svg?style=for-the-badge&logo=network&logoColor=white)
+![EIGRP](https://img.shields.io/badge/EIGRP-%2300A36C.svg?style=for-the-badge&logo=cisco&logoColor=white)
+![BGP](https://img.shields.io/badge/BGP-%237C3AED.svg?style=for-the-badge&logo=router&logoColor=white)
 
-### 🔁 Switching & VLANs
-`VLAN` • `VTP` • `DTP` • `STP`
+#### 🔁 Switching & VLANs
+![VLAN](https://img.shields.io/badge/VLAN-%23007ACC.svg?style=for-the-badge&logo=network&logoColor=white)
+![VTP](https://img.shields.io/badge/VTP-%23FF8C00.svg?style=for-the-badge&logo=network&logoColor=white)
+![DTP](https://img.shields.io/badge/DTP-%2300A36C.svg?style=for-the-badge&logo=network&logoColor=white)
+![STP](https://img.shields.io/badge/STP-%23800080.svg?style=for-the-badge&logo=network&logoColor=white)
 
-### 🔧 Hardware
-`Hands-on experience with Cisco Routers, Cisco Catalyst Switches`
+#### 🔧 Hardware
+![Cisco Routers & Catalyst Switches](https://img.shields.io/badge/Cisco-Routers%20%26%20Catalyst%20Switches-%23007ACC?style=for-the-badge&logo=cisco&logoColor=white)
 
-### 🛠️ Tools
-`PuTTY` • `Cisco Packet Tracer` • `EVE-NG` • `Wireshark` • `VMware` • `VirtualBox` 
+#### 🛠️ Tools
+![PuTTY](https://img.shields.io/badge/PuTTY-%23FF5733?style=for-the-badge&logo=putty&logoColor=white)
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-%23FFC300?style=for-the-badge&logo=cisco&logoColor=white)
+![EVE-NG](https://img.shields.io/badge/EVE--NG-%239B59B6?style=for-the-badge&logo=network&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-%231ABC9C?style=for-the-badge&logo=wireshark&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-%23FF6F61?style=for-the-badge&logo=vmware&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-%2300CED1?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-### 💻 Automation and Programming
-`Python(Network Automation)` • `Ansible` • `Bash scripting`
+#### 💻 Automation and Programming
+![Python (Network Automation)](https://img.shields.io/badge/Python-%230377DB?style=for-the-badge&logo=python&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Bash Scripting](https://img.shields.io/badge/Bash-%2304AA6D?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### ⚙️ Operating Systems
-`Linux` • `Windows Server` • `Cisco IOS`
+#### ⚙️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-%239650FF?style=for-the-badge&logo=windows&logoColor=white)
+![Cisco IOS](https://img.shields.io/badge/Cisco%20IOS-%23007ACC?style=for-the-badge&logo=cisco&logoColor=white)
 
 ---
 
-## 📜 CERTIFICATIONS & COURSES
+### 📜 CERTIFICATIONS & COURSES
 
 - CCNA & CCNP Training Certification
 - [Completed Practical Ethical Hacking Course by TCM Security](https://drive.google.com/file/d/1_YVc2PwPjlLu94SICpWINCrX5atK1bqL/view?usp=sharing)
@@ -54,7 +68,7 @@
 
 ---
 
-## 📁 PROJECTS
+### 📁 PROJECTS
 
 - **[Active Directory Implementation and Pentesting](link)** (Feb 2025)
   - Deployed **Windows Server 2019** as a **Domain Controller**, configuring **Active Directory**, **DNS**, and **DHCP** services within a **VMware** virtualized environment. Integrated **Windows 10** PCs into the domain, managing both local and domain user accounts, administrative roles, and service accounts.
@@ -75,18 +89,22 @@
  
 ---
 
-## 🎓 EDUCATION
+### 🎓 EDUCATION
 
 **🎓 Bachelor of Technology in Computer Science and Engineering (AIML)** (**May 2025**)   
 KIT’s College of Engineering (Autonomous), Kolhapur (CGPA: 7.7)
 
 ---
 
-## 🕸️ CONTACT
+### 🌐 Connect With Me
 
-- 📧 Email: [patiljaykumar4.1@gmail.com](mailto:patiljaykumar4.1@gmail.com) 
-- 📞 Phone: +91 7057846435  
-- 🌍 Location: Bangalore, India  
+<p align="center">
+  <a href="mailto:patiljaykumar4.1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+
+  <a href="https://www.google.com/maps/place/Bengaluru" target="_blank">
+  <img src="https://img.shields.io/badge/Location-Bengaluru-34A853?style=for-the-badge&logo=map-marker&logoColor=white" alt="Bengaluru Location Badge"/></a>
+</p>
 
 ---
 
