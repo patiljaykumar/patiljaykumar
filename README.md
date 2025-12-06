@@ -70,22 +70,28 @@
 
 ### 📁 PROJECTS
 
+- **[SD-WAN & Secure Cloud Network Implementation](link)** (Dec 2025)
+  - Built a 3-site simulated SD-WAN lab with OSPF routing, ensuring reliable site-to-site connectivity.
+  - Secured network access using WireGuard VPN for site-to-site communication, validating data integrity and encryption via Wireshark.
+  - Implemented a pfSense firewall with least-privilege security across 3 VLANs and configured IDS/IPS for logging suspicious traffic.
+  - **Tools**: *SD-WAN, WireGuard VPN, pfSense, Google Cloud, VMware, Wireshark*
+    
 - **[Active Directory Implementation and Pentesting](link)** (Feb 2025)
   - Deployed **Windows Server 2019** as a **Domain Controller**, configuring **Active Directory**, **DNS**, and **DHCP** services within a **VMware** virtualized environment. Integrated **Windows 10** PCs into the domain, managing both local and domain user accounts, administrative roles, and service accounts.
   - Configured and enforced **Group Policy Objects (GPOs)** to implement security measures, including **password policies**, **account lockout policies**, while setting up **proxy server** and **firewall**.
   - Implemented advanced security configurations to mitigate vulnerabilities, securing the environment against **SMB relay attacks**, **LLMNR poisoning**, **IPv6 attacks**, and other network-based threats.
   - **Tools and Technologies**: *VMware, WinServer-2019 and Windows10, Metasploit, Responder, Impacket, Bloodhound, Burp Suite, Nessus*
 
-- **[College Predictor Based on MHT-CET Score](link)** (Nov 2023)
-  - Web and **Machine Learning** based application that predicts suitable colleges for **MHT-CET** aspirants based on their exam scores, stream preferences, and other input parameters.
-  - Utilized **Decision Tree Algorithm** to provide accurate college predictions based on input data.
-  - **Technologies**: *Python, Django, JavaScript, Decision Tree Algorithm*
-
 - **[Student Grievance Support System](link)** (March 2024)
   - Developed a **web-based Student Grievance System** to streamline the reporting and resolution of student issues, designed and implemented during a 24-hour hackathon.
   - Implemented a multi-tier grievance reporting system, enabling students to submit grievances and escalate them to different levels, including **HOD (Head of Department)**, **College Dean**, and **University Head**.
   - Enhanced transparency and accountability by allowing students to track the status of their complaints in real-time and receive updates at each escalation level.
   - **Technologies**: *HTML, CSS, JavaScript, Python, Flask, SQLite*
+
+- **[College Predictor Based on MHT-CET Score](link)** (Nov 2023)
+  - Web and **Machine Learning** based application that predicts suitable colleges for **MHT-CET** aspirants based on their exam scores, stream preferences, and other input parameters.
+  - Utilized **Decision Tree Algorithm** to provide accurate college predictions based on input data.
+  - **Technologies**: *Python, Django, JavaScript, Decision Tree Algorithm*
  
 ---
 
